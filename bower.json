@@ -1,0 +1,19 @@
+{
+  "name": "jobs.nodedc.com",
+  "version": "0.0.0",
+  "authors": [
+    "kabal <kabaldesign@gmail.com>"
+  ],
+  "description": "React Practice",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.13.3"
+  }
+}
